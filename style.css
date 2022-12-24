@@ -1,0 +1,79 @@
+.areatotale{
+    width: auto;
+    height: auto;
+}
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: auto;
+    height: 100px;
+    background-color: rgb(66, 191, 149);
+}
+
+.scritta1{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content:space-between;
+}
+
+.navigation{
+    width: 253px;
+    height: 500px;
+    background-color: orange;
+}
+
+.scritta2{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top:30px;
+    left: 50px;
+}
+
+.article{
+
+    background-color: rgb(222, 174, 17);
+    width:870px;
+    height:500px;
+}
+
+.scritta3{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    top:30px;
+    left: 50px;
+}
+
+.aside{
+    background-color: yellowgreen;
+    height: 500px;
+    width:400px ;
+}
+
+.scritta4{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    top:30px;
+    left: 50px;
+}
+
+.footer{
+    width: auto;
+    height: 100px;
+    background-color: rgb(66, 191, 149);
+}
+
+.scritta5{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    top:30px;
+    left: 50px;
+}
